@@ -1,0 +1,62 @@
+{
+  "responseData": {
+    "translatedText": "triste",
+    "match": 1
+  },
+  "quotaFinished": false,
+  "mtLangSupported": null,
+  "responseDetails": "",
+  "responseStatus": 200,
+  "responderId": "91",
+  "exception_code": null,
+  "matches": [
+    {
+      "id": "454407122",
+      "segment": "sad",
+      "translation": "triste",
+      "source": "en-GB",
+      "target": "pt-PT",
+      "quality": "74",
+      "reference": null,
+      "usage-count": 2,
+      "subject": "All",
+      "created-by": "MateCat",
+      "last-updated-by": "MateCat",
+      "create-date": "2015-08-06 20:33:58",
+      "last-update-date": "2015-08-06 20:33:58",
+      "match": 1
+    },
+    {
+      "id": "501565565",
+      "segment": "sad",
+      "translation": "triste",
+      "source": "en-GB",
+      "target": "pt-BR",
+      "quality": "74",
+      "reference": null,
+      "usage-count": 2,
+      "subject": "All",
+      "created-by": "MateCat",
+      "last-updated-by": "MateCat",
+      "create-date": "2018-01-19 08:46:55",
+      "last-update-date": "2018-01-19 08:46:55",
+      "match": 0.99
+    },
+    {
+      "id": "506069876",
+      "segment": "Sad",
+      "translation": "Triste",
+      "source": "en-GB",
+      "target": "pt-PT",
+      "quality": "74",
+      "reference": null,
+      "usage-count": 2,
+      "subject": "All",
+      "created-by": "MateCat",
+      "last-updated-by": "MateCat",
+      "create-date": "2018-07-01 23:11:21",
+      "last-update-date": "2018-07-01 23:11:21",
+      "match": 0.98
+    }
+  ]
+}
